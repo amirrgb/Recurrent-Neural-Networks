@@ -1,7 +1,7 @@
 # Deep Learning HW4: Recurrent Neural Networks and Time Series
 
 This experiment comprehensively investigates recurrent neural network architectures, including vanilla RNNs, LSTMs, and GRUs, for multivariate time series forecasting.
-It analyzes the impact of critical hyperparameters like hidden size, sequence length, and model depth on training stability, vanishing gradients, and long-term memory retention.
+It analyzes the impact of critical hyperparameters like hidden size, sequence length, and model depth on training stability, vanishing gradients, and long-term memory retention.  
 Furthermore, it explores multi-step recursive forecasting and the conceptual limitations of bidirectional recurrent models in real-time sequential predictions.
 
 **Datasets:** Synthetic multivariate time series with delayed dependencies.  
